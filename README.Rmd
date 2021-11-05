@@ -1,0 +1,24 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# FishDash
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+### &#x261B; Visit the dashboard [here](https://gmcginnis.shinyapps.io/fishdash/)
+
+&#x261B; Full link: https://gmcginnis.shinyapps.io/FishDash/
+
+&#x261B; Alternative link, hosted on the Reed College server: https://shiny.reed.edu/s/users/gmcginnis/FishDash/
+

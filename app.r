@@ -5,6 +5,7 @@ library(tidyverse)
 library(ggthemes)
 library(janitor)
 library(DT)
+library(rsconnect)
 
 angler_data <- read_csv("angler_data.csv") %>% 
   clean_names() %>%
