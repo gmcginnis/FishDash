@@ -1,0 +1,364 @@
+Species,FBname,Genus,Subfamily,BodyShapeI,Vulnerability,Length,DepthRangeShallow,DepthRangeDeep,Aquarium,Dangerous
+Acentrophryne dolichonema,NA,Acentrophryne,NA,short and / or deep,10,NA,201,1105,never/rarely,harmless
+Acentrophryne longidens,NA,Acentrophryne,NA,short and / or deep,10,NA,NA,1280,never/rarely,harmless
+Allenichthys glauerti,Glauert's anglerfish,Allenichthys,Histiophryninae,short and / or deep,10,19,145,NA,never/rarely,harmless
+Antennarius biocellatus,Brackishwater frogfish,Antennarius,Antennariinae,short and / or deep,10,14,0,10,NA,poisonous to eat
+Antennarius commerson,Commerson's frogfish,Antennarius,Antennariinae,short and / or deep,23.35,45,0,70,never/rarely,harmless
+Antennarius hispidus,Shaggy angler,Antennarius,Antennariinae,short and / or deep,10,20,0,90,NA,harmless
+Antennarius indicus,Indian frogfish,Antennarius,Antennariinae,short and / or deep,11.94,23,NA,NA,never/rarely,harmless
+Antennarius maculatus,Warty frogfish,Antennarius,Antennariinae,short and / or deep,10,15,1,15,commercial,harmless
+Antennarius multiocellatus,Longlure frogfish,Antennarius,Antennariinae,short and / or deep,10,20,0,66,commercial,harmless
+Antennarius pardalis,NA,Antennarius,Antennariinae,short and / or deep,10,10.2,18,50,never/rarely,harmless
+Antennarius pauciradiatus,Dwarf frogfish,Antennarius,Antennariinae,short and / or deep,10,6.3,6,73,NA,harmless
+Antennarius pictus,Painted frogfish,Antennarius,Antennariinae,short and / or deep,16,30,0,75,NA,harmless
+Antennarius randalli,Randall's frogfish,Antennarius,Antennariinae,short and / or deep,10,8,8,31,never/rarely,harmless
+Antennarius striatus,Striated frogfish,Antennarius,Antennariinae,short and / or deep,13.16,25,10,219,commercial,harmless
+Antennatus analis,Tailjet frogfish,Antennatus,Antennariinae,short and / or deep,10,7.8,2,21,never/rarely,poisonous to eat
+Antennatus bermudensis,Island frogfish,Antennatus,Antennariinae,NA,10,7.6,4,30,never/rarely,harmless
+Antennatus coccineus,Scarlet frogfish,Antennatus,Antennariinae,short and / or deep,10,13,1,75,commercial,harmless
+Antennatus dorehensis,New Guinean frogfish,Antennatus,Antennariinae,short and / or deep,10,14,0,10,NA,harmless
+Antennatus duescus,Side-jet frogfish,Antennatus,Antennariinae,short and / or deep,10,3,NA,137,never/rarely,harmless
+Antennatus flagellatus,NA,Antennatus,Antennariinae,NA,10,4.89,NA,45,never/rarely,harmless
+Antennatus linearis,Pygmy anglerfish,Antennatus,Antennariinae,short and / or deep,10,7.5,4,33,never/rarely,harmless
+Antennatus nummifer,Spotfin frogfish,Antennatus,Antennariinae,short and / or deep,10,13,0,293,commercial,harmless
+Antennatus rosaceus,Spiny-tufted frogfish,Antennatus,Antennariinae,short and / or deep,10,5.8,0,130,never/rarely,harmless
+Antennatus sanguineus,Bloody frogfish,Antennatus,Antennariinae,short and / or deep,10,8.2,0,40,never/rarely,harmless
+Antennatus strigatus,Bandtail frogfish,Antennatus,Antennariinae,short and / or deep,10,8,0,38,never/rarely,harmless
+Antennatus tuberosus,Tuberculated frogfish,Antennatus,Antennariinae,short and / or deep,10,9,0,73,never/rarely,poisonous to eat
+Bertella idiomorpha,NA,Bertella,NA,NA,29.59,10.2,805,3475,never/rarely,harmless
+Borophryne apogon,Netdevil,Borophryne,NA,short and / or deep,10,8.3,NA,1750,never/rarely,harmless
+Brachionichthys australis,Australian spotted handfish,Brachionichthys,NA,elongated,10,6.35,18,210,never/rarely,harmless
+Brachionichthys hirsutus,Spotted Handfish,Brachionichthys,NA,elongated,10,15,1,60,never/rarely,harmless
+Brachiopsilus dianthus,Pink Handfish,Brachiopsilus,NA,elongated,10,9.95,NA,38,never/rarely,harmless
+Brachiopsilus dossenus,Humpback Handfish,Brachiopsilus,NA,elongated,10,6.5,20,226,never/rarely,harmless
+Brachiopsilus ziebelli,Ziebell<92>s Handfish,Brachiopsilus,NA,elongated,10,11.68,10,20,never/rarely,harmless
+Bufoceratias shaoi,NA,Bufoceratias,NA,short and / or deep,10,NA,0,1200,never/rarely,harmless
+Bufoceratias thele,NA,Bufoceratias,NA,short and / or deep,10,NA,0,1500,never/rarely,harmless
+Bufoceratias wedli,NA,Bufoceratias,NA,short and / or deep,15,NA,300,1750,never/rarely,harmless
+Caulophryne bacescui,NA,Caulophryne,NA,NA,10,NA,NA,NA,never/rarely,harmless
+Caulophryne jordani,Fanfin angler,Caulophryne,NA,short and / or deep,10,11,100,1510,never/rarely,harmless
+Caulophryne pelagica,NA,Caulophryne,NA,other,10,NA,954,2500,never/rarely,harmless
+Caulophryne polynema,NA,Caulophryne,NA,short and / or deep,10,1.6,900,1250,never/rarely,harmless
+Centrophryne spinulosa,Horned lantern fish,Centrophryne,NA,other,20.13,1.28,590,2325,never/rarely,harmless
+Ceratias holboelli,Kroyer's deep-sea angler fish,Ceratias,NA,short and / or deep,72,16,400,4400,never/rarely,harmless
+Ceratias tentaculatus,Southern seadevil,Ceratias,NA,short and / or deep,48.43,NA,100,2900,never/rarely,harmless
+Ceratias uranoscopus,Stargazing seadevil,Ceratias,NA,other,19.28,24,0,2091,never/rarely,harmless
+Chaenophryne draco,Smooth dreamer,Chaenophryne,NA,short and / or deep,32.69,12.3,350,1750,never/rarely,harmless
+Chaenophryne longiceps,Can-opener smoothdream,Chaenophryne,NA,short and / or deep,43.47,24.5,500,1000,never/rarely,harmless
+Chaenophryne melanorhabdus,NA,Chaenophryne,NA,short and / or deep,29.59,10.2,NA,1250,never/rarely,harmless
+Chaenophryne quasiramifera,NA,Chaenophryne,NA,short and / or deep,28.62,9.8,0,1130,never/rarely,harmless
+Chaenophryne ramifera,NA,Chaenophryne,NA,short and / or deep,28.26,9.6,200,1000,never/rarely,harmless
+Chaunacops coloratus,NA,Chaunacops,NA,NA,13.18,19,1250,2000,never/rarely,harmless
+Chaunacops melanostomus,Tadpole coffinfish,Chaunacops,NA,NA,10,7.2,1320,1760,never/rarely,harmless
+Chaunacops roseus,NA,Chaunacops,NA,NA,10,NA,1023,2200,never/rarely,harmless
+Chaunacops spinosus,Eastern tadpole coffinfish,Chaunacops,NA,fusiform / normal,10,10.91,0,1430,never/rarely,harmless
+Chaunax abei,NA,Chaunax,NA,other,26.6,30,90,500,NA,harmless
+Chaunax africanus,African coffinfish,Chaunax,NA,other (see remarks),17.69,22.7,162,200,never/rarely,harmless
+Chaunax apus,NA,Chaunax,NA,NA,16.11,NA,NA,NA,never/rarely,harmless
+Chaunax atimovatae,Southern frogmouth,Chaunax,NA,other (see remarks),15.74,21.1,145,637,never/rarely,harmless
+Chaunax breviradius,NA,Chaunax,NA,NA,10,11,180,510,never/rarely,harmless
+Chaunax endeavouri,Furry coffinfish,Chaunax,NA,other,16.84,22,50,450,never/rarely,harmless
+Chaunax fimbriatus,Tassled coffinfish,Chaunax,NA,fusiform / normal,10,14,500,1985,never/rarely,harmless
+Chaunax flammeus,NA,Chaunax,NA,NA,16.11,NA,760,810,never/rarely,harmless
+Chaunax flavomaculatus,Yellowspot frogmouth,Chaunax,NA,short and / or deep,10,12.2,353,375,never/rarely,harmless
+Chaunax heemstraorum,Heemstras' frogmouth,Chaunax,NA,other (see remarks),10,16.3,102,774,never/rarely,harmless
+Chaunax hollemani,Holleman's frogmouth,Chaunax,NA,other (see remarks),13.79,19.5,280,428,never/rarely,harmless
+Chaunax latipunctatus,NA,Chaunax,NA,NA,10,13.5,345,800,never/rarely,harmless
+Chaunax mulleus,Redshoes frogmouth,Chaunax,NA,short and / or deep,10,16.1,720,1100,never/rarely,harmless
+Chaunax nebulosus,Eyespot coffinfish,Chaunax,NA,NA,15.86,21.2,218,380,never/rarely,harmless
+Chaunax nudiventer,Naked-belly Coffinfish,Chaunax,NA,short and / or deep,10.25,16.6,282,1089,never/rarely,harmless
+Chaunax penicillatus,Pencil coffinfish,Chaunax,NA,short and / or deep,24.16,28,343,658,never/rarely,harmless
+Chaunax pictus,Pink frogmouth,Chaunax,NA,short and / or deep,32.11,40,200,978,never/rarely,harmless
+Chaunax reticulatus,Netted frogmouth,Chaunax,NA,short and / or deep,21.48,25.8,360,950,never/rarely,harmless
+Chaunax russatus,Red coffinfish,Chaunax,NA,short and / or deep,18.43,23.3,512,1200,never/rarely,harmless
+Chaunax stigmaeus,Redeye gaper,Chaunax,NA,other,21.76,30.5,90,730,NA,harmless
+Chaunax suttkusi,NA,Chaunax,NA,short and / or deep,15.2,26.7,220,1060,never/rarely,harmless
+Chaunax umbrinus,NA,Chaunax,NA,other,32.7,35,183,400,never/rarely,harmless
+Chirophryne xenolophus,NA,Chirophryne,NA,short and / or deep,30.47,NA,1230,1400,never/rarely,harmless
+Coelophrys arca,NA,Coelophrys,NA,short and / or deep,14.73,4.1,NA,423,never/rarely,harmless
+Coelophrys bradburyae,NA,Coelophrys,NA,short and / or deep,21.18,5.8,557,595,never/rarely,harmless
+Coelophrys brevicaudata,NA,Coelophrys,NA,short and / or deep,24.63,7.66,NA,1024,never/rarely,harmless
+Coelophrys brevipes,NA,Coelophrys,NA,short and / or deep,18.57,5.1,NA,933,never/rarely,harmless
+Coelophrys micropa,NA,Coelophrys,NA,short and / or deep,31.66,8.41,439,1400,never/rarely,harmless
+Coelophrys mollis,NA,Coelophrys,NA,short and / or deep,13.79,3.9,NA,686,never/rarely,harmless
+Coelophrys oblonga,NA,Coelophrys,NA,NA,23.79,NA,1393,NA,never/rarely,harmless
+Cryptopsaras couesii,Triplewart seadevil,Cryptopsaras,NA,short and / or deep,43.37,7.3,0,3085,never/rarely,harmless
+Ctenochirichthys longimanus,NA,Ctenochirichthys,NA,short and / or deep,30.47,NA,800,1000,never/rarely,harmless
+Danaphryne nigrifilis,NA,Danaphryne,NA,NA,28.83,NA,0,2000,never/rarely,harmless
+Dermatias platynogaster,NA,Dermatias,NA,short and / or deep,28.48,NA,549,1342,never/rarely,harmless
+Dibrachichthys melanurus,NA,Dibrachichthys,NA,NA,10,5.7,6,146,never/rarely,harmless
+Dibranchus accinctus,NA,Dibranchus,NA,short and / or deep,40.89,17.5,1510,1600,never/rarely,harmless
+Dibranchus atlanticus,Atlantic batfish,Dibranchus,NA,other,59.35,39.4,45,1300,never/rarely,harmless
+Dibranchus cracens,NA,Dibranchus,NA,short and / or deep,37.62,12.83,152,480,never/rarely,harmless
+Dibranchus discors,NA,Dibranchus,NA,short and / or deep,35.21,10.79,310,965,never/rarely,harmless
+Dibranchus erinaceus,NA,Dibranchus,NA,short and / or deep,35.75,11,700,1150,never/rarely,harmless
+Dibranchus hystrix,NA,Dibranchus,NA,short and / or deep,37.13,12.5,914,2323,never/rarely,harmless
+Dibranchus japonicus,Japanese seabat,Dibranchus,NA,short and / or deep,39.21,15.45,620,1494,never/rarely,harmless
+Dibranchus nasutus,NA,Dibranchus,NA,NA,43.19,NA,344,403,never/rarely,harmless
+Dibranchus nudivomer,NA,Dibranchus,NA,short and / or deep,35.75,11.2,605,1400,never/rarely,harmless
+Dibranchus sparsus,NA,Dibranchus,NA,short and / or deep,31.66,8.37,443,528,never/rarely,harmless
+Dibranchus spinosus,NA,Dibranchus,NA,short and / or deep,38.84,14.9,366,2324,never/rarely,harmless
+Dibranchus spongiosa,NA,Dibranchus,NA,short and / or deep,38.03,13.32,700,1244,never/rarely,harmless
+Dibranchus tremendus,NA,Dibranchus,NA,short and / or deep,42.53,19.2,750,2300,never/rarely,harmless
+Dibranchus velutinus,NA,Dibranchus,NA,short and / or deep,34.36,9.9,450,525,never/rarely,harmless
+Diceratias bispinosus,Two-rod anglerfish,Diceratias,NA,short and / or deep,10,11.2,533,2306,never/rarely,harmless
+Diceratias pileatus,NA,Diceratias,NA,short and / or deep,18.67,23.5,640,1430,never/rarely,harmless
+Diceratias trilobus,NA,Diceratias,NA,NA,10,NA,NA,1216,never/rarely,harmless
+Dolopichthys allector,NA,Dolopichthys,NA,other,24.65,NA,1050,2000,never/rarely,harmless
+Dolopichthys danae,NA,Dolopichthys,NA,short and / or deep,21.31,NA,600,2000,never/rarely,harmless
+Dolopichthys dinema,NA,Dolopichthys,NA,NA,10,2.2,0,700,never/rarely,harmless
+Dolopichthys jubatus,NA,Dolopichthys,NA,NA,21.55,NA,690,1353,never/rarely,harmless
+Dolopichthys karsteni,NA,Dolopichthys,NA,short and / or deep,29.26,NA,700,1650,never/rarely,harmless
+Dolopichthys longicornis,NA,Dolopichthys,NA,NA,21.31,NA,1375,2200,never/rarely,harmless
+Dolopichthys pullatus,Lobed dreamer,Dolopichthys,NA,short and / or deep,21.31,NA,800,2000,never/rarely,harmless
+Echinophryne crassispina,Prickly anglerfish,Echinophryne,Histiophryninae,other,10,7,0,20,never/rarely,harmless
+Echinophryne mitchellii,Spinycoat anglerfish,Echinophryne,Histiophryninae,other,10,11.1,30,70,never/rarely,harmless
+Echinophryne reynoldsi,Sponge anglerfish,Echinophryne,Histiophryninae,other,10,8,0,20,never/rarely,harmless
+Fowlerichthys avalonis,Roughbar frogfish,Fowlerichthys,Antennariinae,short and / or deep,17.57,33,0,300,never/rarely,harmless
+Fowlerichthys ocellatus,Ocellated frogfish,Fowlerichthys,Antennariinae,short and / or deep,20,38,1,500,commercial,harmless
+Fowlerichthys radiosus,Singlespot frogfish,Fowlerichthys,Antennariinae,short and / or deep,10,7.6,20,275,never/rarely,harmless
+Fowlerichthys scriptissimus,NA,Fowlerichthys,Antennariinae,short and / or deep,24.16,28,73,185,never/rarely,harmless
+Fowlerichthys senegalensis,Senegalese frogfish,Fowlerichthys,Antennariinae,short and / or deep,24.77,28.5,10,80,never/rarely,harmless
+Gigantactis balushkini,NA,Gigantactis,NA,short and / or deep,10,NA,NA,1210,never/rarely,harmless
+Gigantactis elsmani,NA,Gigantactis,NA,other,36.85,NA,0,3000,never/rarely,harmless
+Gigantactis gargantua,NA,Gigantactis,NA,other,33.57,41,500,1535,never/rarely,harmless
+Gigantactis gibbsi,NA,Gigantactis,NA,NA,18.2,NA,465,1640,never/rarely,harmless
+Gigantactis golovani,NA,Gigantactis,NA,NA,18.2,NA,0,2100,never/rarely,harmless
+Gigantactis gracilicauda,NA,Gigantactis,NA,other,10,10.7,2000,2500,never/rarely,harmless
+Gigantactis herwigi,NA,Gigantactis,NA,NA,21.96,NA,0,2000,never/rarely,harmless
+Gigantactis ios,NA,Gigantactis,NA,short and / or deep,10,NA,1005,1360,never/rarely,harmless
+Gigantactis kreffti,NA,Gigantactis,NA,NA,20.74,NA,0,2000,never/rarely,harmless
+Gigantactis longicauda,NA,Gigantactis,NA,short and / or deep,10,NA,500,1200,never/rarely,harmless
+Gigantactis longicirra,NA,Gigantactis,NA,other,18.2,NA,1000,2300,never/rarely,harmless
+Gigantactis macronema,NA,Gigantactis,NA,short and / or deep,33.19,11.65,650,2500,never/rarely,harmless
+Gigantactis meadi,NA,Gigantactis,NA,short and / or deep,25.14,28.8,1850,2000,never/rarely,harmless
+Gigantactis microdontis,NA,Gigantactis,NA,short and / or deep,10,NA,700,915,never/rarely,harmless
+Gigantactis microphthalmus,NA,Gigantactis,NA,NA,18.2,NA,NA,NA,never/rarely,harmless
+Gigantactis paxtoni,Paxton's whipnose,Gigantactis,NA,short and / or deep,25.99,29.5,540,1500,never/rarely,harmless
+Gigantactis perlatus,NA,Gigantactis,NA,NA,17.21,NA,670,2000,never/rarely,harmless
+Gigantactis savagei,NA,Gigantactis,NA,short and / or deep,10,NA,700,1250,never/rarely,harmless
+Gigantactis vanhoeffeni,NA,Gigantactis,NA,short and / or deep,43.84,NA,300,5300,never/rarely,harmless
+Gigantactis watermani,NA,Gigantactis,NA,NA,18.2,NA,0,2100,never/rarely,harmless
+Halicmetus niger,NA,Halicmetus,NA,other,32.01,8.72,280,1000,never/rarely,harmless
+Halicmetus reticulatus,Marbled seabat,Halicmetus,NA,other,32.58,9,291,500,never/rarely,harmless
+Halicmetus ruber,NA,Halicmetus,NA,other,32.58,9,344,549,NA,harmless
+Halieutaea brevicauda,Spiny sea bat,Halieutaea,NA,other,36.96,21,90,250,never/rarely,harmless
+Halieutaea coccinea,Scarlet seabat,Halieutaea,NA,NA,34.2,16,NA,494,never/rarely,harmless
+Halieutaea fitzsimonsi,Circular seabat,Halieutaea,NA,short and / or deep,48.74,30,20,120,never/rarely,harmless
+Halieutaea fumosa,Smoky seabat,Halieutaea,NA,other,38.45,14,NA,220,NA,harmless
+Halieutaea hancocki,Hairy seabat,Halieutaea,NA,short and / or deep,32.05,13,200,250,never/rarely,harmless
+Halieutaea indica,Indian handfish,Halieutaea,NA,short and / or deep,33.59,15,NA,100,never/rarely,harmless
+Halieutaea nigra,NA,Halieutaea,NA,NA,46.1,NA,344,403,never/rarely,harmless
+Halieutaea retifera,NA,Halieutaea,NA,other,34.36,10.2,75,386,never/rarely,harmless
+Halieutaea stellata,Minipizza batfish,Halieutaea,NA,other,46.86,30,50,400,never/rarely,harmless
+Halieutichthys aculeatus,Pancake batfish,Halieutichthys,NA,short and / or deep,28.8,10,5,820,never/rarely,harmless
+Halieutichthys bispinosus,Spiny batfish,Halieutichthys,NA,short and / or deep,34.36,9.93,100,400,never/rarely,harmless
+Halieutichthys caribbaeus,NA,Halieutichthys,NA,NA,33.8,NA,NA,NA,never/rarely,harmless
+Halieutichthys intermedius,NA,Halieutichthys,NA,short and / or deep,28.47,7.14,1,366,never/rarely,harmless
+Halieutopsis andriashevi,NA,Halieutopsis,NA,short and / or deep,20.78,NA,3800,4000,never/rarely,harmless
+Halieutopsis bathyoreos,NA,Halieutopsis,NA,short and / or deep,26.16,6.26,960,1500,never/rarely,harmless
+Halieutopsis galatea,NA,Halieutopsis,NA,short and / or deep,24.57,5.51,NA,1551,never/rarely,harmless
+Halieutopsis ingerorum,NA,Halieutopsis,NA,short and / or deep,19.75,NA,1380,2356,never/rarely,harmless
+Halieutopsis margaretae,NA,Halieutopsis,NA,short and / or deep,26.58,6.35,445,1185,never/rarely,harmless
+Halieutopsis nudiventer,NA,Halieutopsis,NA,short and / or deep,26.16,7.5,NA,NA,never/rarely,harmless
+Halieutopsis simula,NA,Halieutopsis,NA,short and / or deep,26.81,6.53,NA,512,never/rarely,harmless
+Halieutopsis stellifera,NA,Halieutopsis,NA,short and / or deep,28.47,7.12,410,1372,never/rarely,harmless
+Halieutopsis tumifrons,NA,Halieutopsis,NA,short and / or deep,27.89,6.9,NA,2487,never/rarely,harmless
+Halieutopsis vermicularis,NA,Halieutopsis,NA,short and / or deep,30.14,7.8,391,1141,never/rarely,harmless
+Haplophryne mollis,Soft leafvent angler,Haplophryne,NA,short and / or deep,10,15.9,NA,2250,never/rarely,harmless
+Himantolophus albinares,NA,Himantolophus,NA,short and / or deep,13.18,19,330,1950,never/rarely,harmless
+Himantolophus appelii,Prickly footballfish,Himantolophus,NA,short and / or deep,32.11,40,338,1360,never/rarely,harmless
+Himantolophus azurlucens,NA,Himantolophus,NA,NA,10,NA,900,1100,never/rarely,harmless
+Himantolophus borealis,NA,Himantolophus,NA,short and / or deep,10,NA,1210,NA,never/rarely,harmless
+Himantolophus brevirostris,NA,Himantolophus,NA,short and / or deep,10,4,NA,3000,never/rarely,harmless
+Himantolophus compressus,NA,Himantolophus,NA,NA,10,NA,NA,NA,never/rarely,harmless
+Himantolophus cornifer,NA,Himantolophus,NA,NA,15.38,NA,0,1900,never/rarely,harmless
+Himantolophus crinitus,NA,Himantolophus,NA,NA,10,NA,NA,610,never/rarely,harmless
+Himantolophus danae,NA,Himantolophus,NA,NA,10,NA,350,NA,never/rarely,harmless
+Himantolophus groenlandicus,Atlantic footballfish,Himantolophus,NA,short and / or deep,49.28,4,830,1830,never/rarely,harmless
+Himantolophus litoceras,NA,Himantolophus,NA,short and / or deep,23.67,NA,654,NA,never/rarely,harmless
+Himantolophus macroceras,NA,Himantolophus,NA,NA,10,NA,NA,2100,never/rarely,harmless
+Himantolophus macroceratoides,NA,Himantolophus,NA,NA,10.59,NA,800,900,never/rarely,harmless
+Himantolophus mauli,NA,Himantolophus,NA,short and / or deep,16.23,NA,400,750,never/rarely,harmless
+Himantolophus melanolophus,NA,Himantolophus,NA,short and / or deep,10,NA,360,880,never/rarely,harmless
+Himantolophus multifurcatus,NA,Himantolophus,NA,NA,10,NA,200,365,never/rarely,harmless
+Himantolophus nigricornis,NA,Himantolophus,NA,NA,13.79,NA,NA,NA,never/rarely,harmless
+Himantolophus paucifilosus,NA,Himantolophus,NA,NA,10.59,NA,100,1540,never/rarely,harmless
+Himantolophus pseudalbinares,NA,Himantolophus,NA,NA,10,NA,NA,1300,never/rarely,harmless
+Himantolophus rostratus,NA,Himantolophus,NA,short and / or deep,10,3.9,NA,NA,never/rarely,harmless
+Himantolophus sagamius,Pacific footballfish,Himantolophus,NA,short and / or deep,14.4,20,613,1200,never/rarely,harmless
+Himantolophus stewarti,NA,Himantolophus,NA,short and / or deep,10,NA,400,1413,never/rarely,harmless
+Histiophryne bougainvilli,Smooth anglerfish,Histiophryne,Histiophryninae,NA,10,9,0,6,never/rarely,harmless
+Histiophryne cryptacanthus,Cryptic anglerfish,Histiophryne,Histiophryninae,short and / or deep,10,9.6,5,130,never/rarely,harmless
+Histiophryne maggiewalker,Queensland frogfish,Histiophryne,Histiophryninae,short and / or deep,10,5.5,7,12,never/rarely,harmless
+Histiophryne pogonius,NA,Histiophryne,Histiophryninae,short and / or deep,10,4.81,NA,NA,never/rarely,harmless
+Histiophryne psychedelica,Psychedelic frogfish,Histiophryne,Histiophryninae,short and / or deep,10,6.5,5,10,never/rarely,harmless
+Histrio histrio,Sargassumfish,Histrio,Antennariinae,short and / or deep,10,20,0,50,commercial,reports of ciguatera poisoning
+Kuiterichthys furcipilis,Rough anglerfish,Kuiterichthys,Histiophryninae,other,10,15,10,240,never/rarely,harmless
+Lasiognathus amphirhamphus,NA,Lasiognathus,NA,short and / or deep,10,NA,1200,1305,never/rarely,harmless
+Lasiognathus beebei,NA,Lasiognathus,NA,short and / or deep,10,NA,0,1100,never/rarely,harmless
+Lasiognathus intermedius,NA,Lasiognathus,NA,short and / or deep,10,NA,0,1265,never/rarely,harmless
+Lasiognathus saccostoma,NA,Lasiognathus,NA,short and / or deep,10,NA,0,4000,never/rarely,harmless
+Lasiognathus waltoni,NA,Lasiognathus,NA,short and / or deep,10,NA,0,1350,never/rarely,harmless
+Leptacanthichthys gracilispinis,Plainchin dreamarm,Leptacanthichthys,NA,short and / or deep,25.63,0.8,0,2000,never/rarely,harmless
+Linophryne algibarbata,NA,Linophryne,NA,short and / or deep,12,4.1,400,2200,never/rarely,harmless
+Linophryne andersoni,NA,Linophryne,NA,short and / or deep,10,NA,NA,50,never/rarely,harmless
+Linophryne arborifera,NA,Linophryne,NA,other,10,7,200,1000,never/rarely,harmless
+Linophryne arcturi,NA,Linophryne,NA,NA,10,NA,650,1900,never/rarely,harmless
+Linophryne argyresca,NA,Linophryne,NA,short and / or deep,10,1.2,NA,1750,never/rarely,harmless
+Linophryne bicornis,NA,Linophryne,NA,short and / or deep,12.57,3,620,1220,never/rarely,harmless
+Linophryne bipennata,NA,Linophryne,NA,short and / or deep,10,NA,0,2000,never/rarely,harmless
+Linophryne brevibarbata,NA,Linophryne,NA,NA,10,NA,600,2000,never/rarely,harmless
+Linophryne coronata,NA,Linophryne,NA,short and / or deep,10,2.6,0,1500,never/rarely,harmless
+Linophryne densiramus,Thickbranch angler,Linophryne,NA,short and / or deep,10,NA,150,1400,never/rarely,harmless
+Linophryne escaramosa,NA,Linophryne,NA,short and / or deep,10,NA,0,1350,never/rarely,harmless
+Linophryne indica,Headlight angler,Linophryne,NA,other,10,4.3,150,2000,never/rarely,harmless
+Linophryne lucifer,NA,Linophryne,NA,other,23.55,2.9,0,1000,never/rarely,harmless
+Linophryne macrodon,NA,Linophryne,NA,short and / or deep,10,2.15,300,1000,never/rarely,harmless
+Linophryne maderensis,NA,Linophryne,NA,NA,10,NA,0,880,never/rarely,harmless
+Linophryne parini,NA,Linophryne,NA,short and / or deep,10,NA,NA,1220,never/rarely,harmless
+Linophryne pennibarbata,NA,Linophryne,NA,other,10,NA,750,1500,never/rarely,harmless
+Linophryne polypogon,NA,Linophryne,NA,NA,10,4.5,1055,1295,never/rarely,harmless
+Linophryne quinqueramosa,NA,Linophryne,NA,NA,10,NA,NA,915,never/rarely,harmless
+Linophryne racemifera,NA,Linophryne,NA,other,10,NA,210,1500,never/rarely,harmless
+Linophryne sexfilis,NA,Linophryne,NA,NA,10,NA,100,1250,never/rarely,harmless
+Linophryne trewavasae,NA,Linophryne,NA,NA,10,1.07,NA,1500,never/rarely,harmless
+Lophichthys boschmai,Boschma's frogfish,Lophichthys,NA,other,10,5.1,NA,NA,NA,harmless
+Lophiocharon hutchinsi,Hutchins' anglerfish,Lophiocharon,Histiophryninae,short and / or deep,10,4.9,2,9,never/rarely,harmless
+Lophiocharon lithinostomus,Marble-mouthed frogfish,Lophiocharon,Histiophryninae,short and / or deep,10,9.1,1,10,never/rarely,harmless
+Lophiocharon trisignatus,Three-spot frogfish,Lophiocharon,Histiophryninae,short and / or deep,10,14.7,2,52,never/rarely,harmless
+Lophiodes beroe,NA,Lophiodes,NA,other,48.55,40,347,860,never/rarely,harmless
+Lophiodes bruchius,NA,Lophiodes,NA,NA,22.52,16.44,274,384,never/rarely,harmless
+Lophiodes caulinaris,Spottedtail angler,Lophiodes,NA,short and / or deep,40.33,40,15,311,never/rarely,harmless
+Lophiodes endoi,Anglerfish,Lophiodes,NA,short and / or deep,46.76,38,261,750,never/rarely,harmless
+Lophiodes fimbriatus,NA,Lophiodes,NA,short and / or deep,12.93,7.5,NA,NA,never/rarely,harmless
+Lophiodes gracilimanus,NA,Lophiodes,NA,other,22.52,16.54,125,300,never/rarely,harmless
+Lophiodes insidiator,Natal angler,Lophiodes,NA,short and / or deep,31.32,30,200,600,never/rarely,harmless
+Lophiodes iwamotoi,Long-spine anglerfish,Lophiodes,NA,short and / or deep,32.9,22.6,NA,710,never/rarely,harmless
+Lophiodes kempi,Longspine African angler,Lophiodes,NA,other,40.33,40,50,400,never/rarely,harmless
+Lophiodes maculatus,Spotted anglerfish,Lophiodes,NA,short and / or deep,23.83,14.1,283,650,never/rarely,harmless
+Lophiodes miacanthus,NA,Lophiodes,NA,other,25,15,110,960,never/rarely,harmless
+Lophiodes monodi,NA,Lophiodes,NA,other,49.37,52,366,549,never/rarely,harmless
+Lophiodes mutilus,Smooth angler,Lophiodes,NA,short and / or deep,44.07,45,234,760,never/rarely,harmless
+Lophiodes naresi,Goosefish,Lophiodes,NA,other,24.63,20,180,460,NA,harmless
+Lophiodes reticulatus,Reticulated goosefish,Lophiodes,NA,short and / or deep,28.6,25,64,820,never/rarely,harmless
+Lophiodes spilurus,Threadfin angler,Lophiodes,NA,short and / or deep,31.32,30,120,475,never/rarely,harmless
+Lophiodes triradiatus,Shortspine goosefish,Lophiodes,NA,short and / or deep,29.04,25.9,208,1560,NA,harmless
+Lophiomus setigerus,Blackmouth angler,Lophiomus,NA,short and / or deep,35.96,40,30,800,never/rarely,harmless
+Lophius americanus,American angler,Lophius,NA,fusiform / normal,76.87,120,0,800,NA,harmless
+Lophius budegassa,Blackbellied angler,Lophius,NA,fusiform / normal,69.33,100,70,1013,never/rarely,harmless
+Lophius gastrophysus,Blackfin goosefish,Lophius,NA,fusiform / normal,51.25,60,40,700,never/rarely,harmless
+Lophius litulon,Yellow goosefish,Lophius,NA,other,78.04,150,25,560,never/rarely,harmless
+Lophius piscatorius,Angler,Lophius,NA,short and / or deep,71.61,200,20,1000,never/rarely,harmless
+Lophius vaillanti,Shortspine African angler,Lophius,NA,other,58.8,80.3,200,800,never/rarely,harmless
+Lophius vomerinus,Devil anglerfish,Lophius,NA,fusiform / normal,60.18,100,150,400,never/rarely,harmless
+Lophodolos acanthognathus,Whalehead dreamer,Lophodolos,NA,short and / or deep,21.72,NA,650,1500,never/rarely,harmless
+Lophodolos indicus,NA,Lophodolos,NA,short and / or deep,24.92,NA,750,1625,never/rarely,harmless
+Malthopsis annulifera,NA,Malthopsis,NA,other,32.58,9,90,590,never/rarely,harmless
+Malthopsis asperata,Roughspine batfish,Malthopsis,NA,other (see remarks),26.81,6.54,240,510,never/rarely,harmless
+Malthopsis austrafricana,Southern African triangular batfish,Malthopsis,NA,NA,31.66,8.4,170,700,never/rarely,harmless
+Malthopsis bradburyae,Bradbury<92>s triangular batfish,Malthopsis,NA,other (see remarks),29.04,7.24,NA,100,never/rarely,harmless
+Malthopsis gigas,Giant triangular batfish,Malthopsis,NA,short and / or deep,38.03,13.64,210,540,never/rarely,harmless
+Malthopsis gnoma,NA,Malthopsis,NA,short and / or deep,25.93,6.08,91,475,never/rarely,harmless
+Malthopsis jordani,NA,Malthopsis,NA,short and / or deep,35.75,11,185,520,never/rarely,harmless
+Malthopsis kobayashii,NA,Malthopsis,NA,short and / or deep,30.75,7.98,NA,NA,never/rarely,harmless
+Malthopsis lutea,Longnose seabat,Malthopsis,NA,short and / or deep,28.8,10,100,500,never/rarely,harmless
+Malthopsis mitrigera,Twospine batfish,Malthopsis,NA,short and / or deep,30.75,8,300,650,never/rarely,harmless
+Malthopsis parva,Arrowhead batfish,Malthopsis,NA,other (see remarks),23.02,5.11,420,677,never/rarely,harmless
+Malthopsis retifera,Reticulate triangular batfish,Malthopsis,NA,short and / or deep,25.71,6.03,375,420,never/rarely,harmless
+Malthopsis tiarella,Spearnose seabat,Malthopsis,NA,short and / or deep,34.65,10.5,80,450,never/rarely,harmless
+Melanocetus eustalus,NA,Melanocetus,NA,NA,10,NA,0,1675,never/rarely,harmless
+Melanocetus johnsonii,Humpback anglerfish,Melanocetus,NA,short and / or deep,10,2.9,100,4500,never/rarely,harmless
+Melanocetus murrayi,Murray's abyssal anglerfish,Melanocetus,NA,short and / or deep,10,2,100,6370,never/rarely,harmless
+Melanocetus niger,NA,Melanocetus,NA,NA,10,11,1200,2000,never/rarely,harmless
+Melanocetus polyactis,NA,Melanocetus,NA,NA,10,1.95,1000,2200,never/rarely,harmless
+Melanocetus rossi,NA,Melanocetus,NA,NA,10,NA,NA,420,never/rarely,harmless
+Microlophichthys andracanthus,NA,Microlophichthys,NA,NA,10,1.7,NA,NA,never/rarely,harmless
+Microlophichthys microlophus,Short-rod anglerfish,Microlophichthys,NA,other,28.7,NA,800,2200,never/rarely,harmless
+Neoceratias spinifer,Spiny seadevil,Neoceratias,NA,NA,10,6,0,1200,never/rarely,harmless
+Nudiantennarius subteres,Deep-water frogfish,Nudiantennarius,Antennariinae,short and / or deep,10,7.5,3,128,never/rarely,harmless
+Ogcocephalus corniger,Longnose batfish,Ogcocephalus,NA,short and / or deep,39.88,23,29,230,NA,harmless
+Ogcocephalus cubifrons,NA,Ogcocephalus,NA,short and / or deep,57.68,38,0,70,never/rarely,harmless
+Ogcocephalus darwini,Gal<e1>pagos batfish,Ogcocephalus,NA,short and / or deep,44.31,20.3,3,76,NA,harmless
+Ogcocephalus declivirostris,Slantbrow batfish,Ogcocephalus,NA,short and / or deep,34.4,16.5,4,388,NA,harmless
+Ogcocephalus nasutus,Shortnose batfish,Ogcocephalus,NA,short and / or deep,56.61,38,0,305,commercial,harmless
+Ogcocephalus notatus,NA,Ogcocephalus,NA,short and / or deep,38.03,13.38,15,172,never/rarely,harmless
+Ogcocephalus pantostictus,Spotted batfish,Ogcocephalus,NA,short and / or deep,50.88,31,9,31,NA,harmless
+Ogcocephalus parvus,Roughback batfish,Ogcocephalus,NA,short and / or deep,28.8,10,29,126,never/rarely,harmless
+Ogcocephalus porrectus,NA,Ogcocephalus,NA,short and / or deep,38.45,13.85,88,146,never/rarely,harmless
+Ogcocephalus pumilus,Dwarf batfish,Ogcocephalus,NA,short and / or deep,25.93,6.1,35,348,never/rarely,harmless
+Ogcocephalus radiatus,Polka-dot batfish,Ogcocephalus,NA,elongated,57.68,38,NA,70,NA,harmless
+Ogcocephalus rostellum,Palefin batfish,Ogcocephalus,NA,short and / or deep,35.45,19,28,228,NA,harmless
+Ogcocephalus vespertilio,Seadevil,Ogcocephalus,NA,short and / or deep,46.98,30.5,NA,NA,commercial,reports of ciguatera poisoning
+Oneirodes acanthias,Spiny dreamer,Oneirodes,NA,short and / or deep,33.45,20,0,1750,never/rarely,harmless
+Oneirodes alius,NA,Oneirodes,NA,short and / or deep,12.47,3.8,575,1200,never/rarely,harmless
+Oneirodes anisacanthus,NA,Oneirodes,NA,NA,39.5,1.3,NA,1500,never/rarely,harmless
+Oneirodes basili,NA,Oneirodes,NA,NA,31.52,NA,700,1400,never/rarely,harmless
+Oneirodes bradburyae,NA,Oneirodes,NA,other,10,NA,NA,1426,never/rarely,harmless
+Oneirodes bulbosus,Bulb-fish,Oneirodes,NA,short and / or deep,37.18,23,200,2000,never/rarely,harmless
+Oneirodes carlsbergi,NA,Oneirodes,NA,short and / or deep,29.45,NA,360,1000,never/rarely,harmless
+Oneirodes clarkei,NA,Oneirodes,NA,NA,32.07,NA,0,1500,never/rarely,harmless
+Oneirodes cristatus,NA,Oneirodes,NA,short and / or deep,36.93,NA,NA,2000,never/rarely,harmless
+Oneirodes dicromischus,NA,Oneirodes,NA,NA,11.53,3.5,840,1030,never/rarely,harmless
+Oneirodes epithales,Nightmare dreamer,Oneirodes,NA,short and / or deep,33.29,NA,0,1829,never/rarely,harmless
+Oneirodes eschrichtii,Bulbous dreamer,Oneirodes,NA,short and / or deep,43.32,28.8,750,2500,never/rarely,harmless
+Oneirodes flagellifer,NA,Oneirodes,NA,NA,23.12,7,1750,3800,never/rarely,harmless
+Oneirodes haplonema,NA,Oneirodes,NA,NA,31.52,NA,960,1132,never/rarely,harmless
+Oneirodes heteronema,NA,Oneirodes,NA,NA,31.52,NA,500,1250,never/rarely,harmless
+Oneirodes kreffti,Krefft's dreamer,Oneirodes,NA,short and / or deep,31.13,11.1,0,2000,never/rarely,harmless
+Oneirodes luetkeni,NA,Oneirodes,NA,short and / or deep,30.94,16,NA,1750,never/rarely,harmless
+Oneirodes macronema,NA,Oneirodes,NA,NA,10,NA,0,1000,never/rarely,harmless
+Oneirodes macrosteus,NA,Oneirodes,NA,other,36.86,NA,0,1000,never/rarely,harmless
+Oneirodes melanocauda,NA,Oneirodes,NA,NA,10,NA,NA,2000,never/rarely,harmless
+Oneirodes micronema,NA,Oneirodes,NA,short and / or deep,26.92,8.9,650,1000,never/rarely,harmless
+Oneirodes mirus,NA,Oneirodes,NA,NA,10.53,3.2,NA,1500,never/rarely,harmless
+Oneirodes myrionemus,NA,Oneirodes,NA,NA,29.45,NA,0,1800,never/rarely,harmless
+Oneirodes notius,NA,Oneirodes,NA,NA,35.52,NA,700,2000,never/rarely,harmless
+Oneirodes pietschi,NA,Oneirodes,NA,short and / or deep,31.85,11.7,300,1635,never/rarely,harmless
+Oneirodes plagionema,NA,Oneirodes,NA,short and / or deep,10,NA,1500,2000,never/rarely,harmless
+Oneirodes posti,NA,Oneirodes,NA,NA,31.52,NA,800,1800,never/rarely,harmless
+Oneirodes pterurus,NA,Oneirodes,NA,short and / or deep,10,NA,1000,1400,never/rarely,harmless
+Oneirodes rosenblatti,NA,Oneirodes,NA,NA,34.13,NA,750,3000,never/rarely,harmless
+Oneirodes sabex,Rough dreamer,Oneirodes,NA,short and / or deep,34.13,13.5,780,1800,never/rarely,harmless
+Oneirodes schistonema,NA,Oneirodes,NA,short and / or deep,24.08,NA,0,2000,never/rarely,harmless
+Oneirodes schmidti,NA,Oneirodes,NA,short and / or deep,27.51,9.2,NA,2500,never/rarely,harmless
+Oneirodes theodoritissieri,NA,Oneirodes,NA,NA,29.45,NA,NA,1460,never/rarely,harmless
+Oneirodes thompsoni,Alaska dreamer,Oneirodes,NA,short and / or deep,34.85,21,100,2014,never/rarely,harmless
+Oneirodes thysanema,NA,Oneirodes,NA,short and / or deep,10,NA,650,1500,never/rarely,harmless
+Pentherichthys atratus,NA,Pentherichthys,NA,NA,28.7,NA,NA,2500,never/rarely,harmless
+Pezichthys amplispinus,Cockatoo Handfish,Pezichthys,NA,elongated,10,4.57,74,121,never/rarely,harmless
+Pezichthys compressus,Narrowbody Handfish,Pezichthys,NA,NA,10,4.24,NA,NA,never/rarely,harmless
+Pezichthys eltanini,Eltanin handfish,Pezichthys,NA,elongated,10,3.61,NA,NA,never/rarely,harmless
+Pezichthys macropinnis,Longfin handfish,Pezichthys,NA,elongated,10,2.05,NA,145,never/rarely,harmless
+Pezichthys nigrocilium,Eyelash handfish,Pezichthys,NA,elongated,10,4.08,NA,NA,never/rarely,harmless
+Photocorynus spiniceps,NA,Photocorynus,NA,short and / or deep,10,1,990,1420,never/rarely,harmless
+Phyllophryne scortea,Whitespotted anglerfish,Phyllophryne,Histiophryninae,short and / or deep,10,10,NA,25,never/rarely,harmless
+Phyllorhinichthys balushkini,NA,Phyllorhinichthys,NA,NA,35.02,NA,0,3200,never/rarely,harmless
+Phyllorhinichthys micractis,NA,Phyllorhinichthys,NA,NA,32.13,NA,1000,3600,never/rarely,harmless
+Puck pinnata,NA,Puck,NA,NA,30.47,NA,1464,4073,never/rarely,harmless
+Rhycherus filamentosus,Tasselled anglerfish,Rhycherus,Histiophryninae,other,11.94,23,0,60,never/rarely,harmless
+Rhycherus gloveri,Glover's anglerfish,Rhycherus,Histiophryninae,NA,10,16,NA,NA,never/rarely,harmless
+Rhynchactis leptonema,NA,Rhynchactis,NA,short and / or deep,10,NA,300,600,never/rarely,harmless
+Rhynchactis macrothrix,NA,Rhynchactis,NA,short and / or deep,10,NA,300,2000,never/rarely,harmless
+Rhynchactis microthrix,NA,Rhynchactis,NA,NA,10,NA,0,2250,never/rarely,harmless
+Robia legula,NA,Robia,NA,NA,10,NA,1000,1500,never/rarely,harmless
+Sladenia remiger,Celebes monkfish,Sladenia,NA,short and / or deep,40.33,40,780,1540,never/rarely,harmless
+Sladenia shaefersi,NA,Sladenia,NA,short and / or deep,38.02,28,900,1200,never/rarely,harmless
+Sladenia zhui,NA,Sladenia,NA,short and / or deep,54.19,65,NA,979,never/rarely,harmless
+Solocisquama carinata,NA,Solocisquama,NA,short and / or deep,29.04,NA,750,800,never/rarely,harmless
+Solocisquama erythrina,NA,Solocisquama,NA,short and / or deep,38.03,13.55,786,872,never/rarely,harmless
+Solocisquama stellulata,NA,Solocisquama,NA,short and / or deep,32.92,9.3,274,550,never/rarely,harmless
+Spiniphryne duhameli,NA,Spiniphryne,NA,other,31.85,NA,0,2500,never/rarely,harmless
+Spiniphryne gladisfenae,Prickly dreamer,Spiniphryne,NA,short and / or deep,30.21,NA,NA,1955,never/rarely,harmless
+Sympterichthys moultoni,Moulton<92>s handfish,Sympterichthys,NA,elongated,10,4.51,105,150,never/rarely,harmless
+Sympterichthys politus,Red handfish,Sympterichthys,NA,elongated,10,9,NA,NA,never/rarely,harmless
+Sympterichthys unipennis,Smooth handfish,Sympterichthys,NA,elongated,10,4.4,NA,NA,never/rarely,harmless
+Tathicarpus butleri,Butler's frogfish,Tathicarpus,Histiophryninae,short and / or deep,10,14,0,146,NA,harmless
+Tetrabrachium ocellatum,Four-armed frogfish,Tetrabrachium,NA,elongated,10,7,NA,51,never/rarely,harmless
+Thaumatichthys axeli,NA,Thaumatichthys,NA,NA,34.53,3.6,NA,3570,never/rarely,harmless
+Thaumatichthys binghami,NA,Thaumatichthys,NA,short and / or deep,25.87,NA,1100,3200,never/rarely,harmless
+Thaumatichthys pagidostomus,NA,Thaumatichthys,NA,other,10,8.5,NA,1440,never/rarely,harmless
+Thymichthys verrucosus,Warty handfish,Thymichthys,NA,elongated,10,9.3,NA,NA,never/rarely,harmless
+Tyrannophryne pugnax,NA,Tyrannophryne,NA,other,30.47,NA,400,2100,never/rarely,harmless
+Zalieutes elater,Roundel batfish,Zalieutes,NA,short and / or deep,32.96,15,18,113,never/rarely,harmless
+Zalieutes mcgintyi,Tricorn batfish,Zalieutes,NA,short and / or deep,28.8,10,NA,660,never/rarely,harmless
